@@ -34,3 +34,11 @@ console.log("After Removing the First: " + a);
 
 a.splice(1, 2);
 console.log(a);
+
+var f=[1,2,3];
+ 
+var max=0;
+for(let i=0;i<f.length;i++){
+    if(f[i]>max){max=f[i];}
+}
+console.log(max);
