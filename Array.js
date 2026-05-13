@@ -42,3 +42,6 @@ for(let i=0;i<f.length;i++){
     if(f[i]>max){max=f[i];}
 }
 console.log(max);
+
+
+erdctfvgbyhujnimkojminhuygtrfes
